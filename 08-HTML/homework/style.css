@@ -1,0 +1,32 @@
+h1 {
+    color: thistle;
+}
+
+img {
+    width: 400px;
+}
+
+.thirdDiv {
+    display: flex;
+    width: 500px;
+    height: 600px;
+    background-color: aqua;
+    padding: 50px;
+    border: 20px solid black;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+.divClass {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+li {
+    text-align: center;
+}
